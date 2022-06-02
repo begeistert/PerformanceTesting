@@ -43,7 +43,7 @@ Recuerda que:
 
 Video: [video](https://drive.google.com/uc?export=download&id=18t26m9zDQ_V6Ld7cotjNYMv79gu51bRQ)
 
-Archivo de configuración: [jmx file](j)
+Archivo de configuración: [jmx file](https://github.com/begeistert/PerformanceTesting/raw/master/Sesion%202/pruebabedublazedemoreto02.jmx)
 
 ## Licencia
 Distribuido bajo la licencia GNU. Consulte `LICENCE` para obtener más información.
