@@ -40,7 +40,9 @@ Vamos a construir un proyecto en JMeter con 3 escenarios de prueba cada uno con 
 
 ### Resultados
 
-Aquí van los resultados
+Video: [video](https://drive.google.com/uc?export=download&id=1kB8nMMpPGrmR0m6OnS06G3Qqk_z3V-Rc)
+
+Archivo de configuración: [jmx file](https://github.com/begeistert/PerformanceTesting/raw/master/Sesion%204/Login%20%20Request.jmx)
 
 ## Licencia
 Distribuido bajo la licencia GNU. Consulte `LICENCE` para obtener más información.
