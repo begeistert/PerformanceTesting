@@ -35,7 +35,7 @@ Con lo trabajado en el work, ya hemos hecho la grabación y ejecución de un esc
 
 Video: [video](https://drive.google.com/uc?export=download&id=1f7FjZ5d0Llartl--lVLX1ZYcdT5Nr0oa)
 
-Archivo de configuración: [jmx file](j)
+Archivo de configuración: [jmx file](https://raw.githubusercontent.com/begeistert/PerformanceTesting/master/Sesion%201/PostWork2Fine.jmx)
 
 ## Licencia
 Distribuido bajo la licencia GNU. Consulte `LICENCE` para obtener más información.
