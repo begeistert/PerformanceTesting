@@ -55,7 +55,9 @@ Vamos a crear 2 escenarios de prueba donde incorporamos los 4 tipos de pruebas q
 
 ### Resultados
 
-Los resultados van aquí
+Video: [video](https://drive.google.com/uc?export=download&id=1rSXfpLuikkdJaOtPVOxy-3AgvRDIimIk)
+
+Archivo de configuración: [jmx file](https://github.com/begeistert/PerformanceTesting/raw/master/Sesion%203/Postwork.jmx)
 
 ## Licencia
 Distribuido bajo la licencia GNU. Consulte `LICENCE` para obtener más información.
