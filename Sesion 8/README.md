@@ -39,7 +39,65 @@ En esta sesión crearemos un proyecto en JMeter donde consumamos una API y utili
 
 ### Resultados
 
-Aquí van los resultados
+<p align="center">
+  <a>
+    <img src="images/image1.png" alt="Logo">
+  </a>
+
+ <p align="center">
+  <a>
+    <img src="images/image2.png" alt="Logo">
+  </a>
+
+<p align="center">
+  <a>
+    <img src="images/image3.png" alt="Logo">
+  </a>
+
+ <p align="center">
+  <a>
+    <img src="images/image4.png" alt="Logo">
+  </a>
+
+ <p align="center">
+  <a>
+    <img src="images/image5.png" alt="Logo">
+  </a>
+
+ <p align="center">
+  <a>
+    <img src="images/image6.png" alt="Logo">
+  </a>
+
+<p align="center">
+  <a>
+    <img src="images/image7.png" alt="Logo">
+  </a>
+
+ <p align="center">
+  <a>
+    <img src="images/image8.png" alt="Logo">
+  </a>
+
+<p align="center">
+  <a>
+    <img src="images/image9.png" alt="Logo">
+  </a>
+
+ <p align="center">
+  <a>
+    <img src="images/image10.png" alt="Logo">
+  </a>
+
+<p align="center">
+  <a>
+    <img src="images/image11.png" alt="Logo">
+  </a>
+
+ <p align="center">
+  <a>
+    <img src="images/image12.png" alt="Logo">
+  </a>
 
 ## Licencia
 Distribuido bajo la licencia GNU. Consulte `LICENCE` para obtener más información.
