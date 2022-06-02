@@ -50,6 +50,8 @@ En esta sesión crearemos un proyecto en JMeter donde integraremos con Selenium 
 Aquí van los resultados
 
 ## Licencia
-Distribuido bajo la licencia GNU. Consulte `LICENCE` para obtener más información.
+
+Video: [video](https://drive.google.com/uc?export=download&id=1acZEfk-OHQjIF5Mq2A-EZ515w25LFKek)
+Código Fuente: [source](https://drive.google.com/uc?export=download&id=1gO14A3UW2ly-ZRfXpgZyyooFSxXt33hl)
 
 ##### Equipo 2
