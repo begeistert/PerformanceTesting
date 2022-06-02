@@ -47,6 +47,9 @@ En esta sesión crearemos un proyecto en JMeter donde integremos con GitHub y ll
 
 Aquí van los resultados
 
+Video: [video](https://drive.google.com/uc?export=download&id=1eL7UqG_1IaM9lV8zFaZ-gEefS157ZNA1)
+
+
 ## Licencia
 Distribuido bajo la licencia GNU. Consulte `LICENCE` para obtener más información.
 
